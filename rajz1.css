@@ -1,0 +1,165 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+
+body{
+height: 850px;
+background-image: linear-gradient(to right top, white, darkgrey, black, black)
+}
+
+h1{
+color: white;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 90px;
+margin: 50px;
+position: absolute
+}
+
+.szoveg2{
+position: absolute;
+top: 58%;
+left: 63%;
+}
+
+.container{
+height: 650px;
+width: 600px;
+border: 1px solid white;
+margin: 0px auto;
+border-radius: 10px;
+box-shadow: 0px 0px 10px  gray;
+backdrop-filter: blur(10px);
+transform: translate(0%, -130px)
+}
+
+.kor{
+border: 2px solid white;
+margin: 0 auto;
+border-radius: 100px;
+width: 100px;
+height: 100px;
+box-shadow: 0px 0px 10px gray;
+margin-top: 35px;
+opacity: 2;
+margin-bottom: 30px;
+background-color: white;
+opacity: 0.4;
+}
+
+.fej{
+height: 30px;
+width: 30px;
+background-color: rgb(126, 101, 101);
+margin: 0px auto;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+margin-top: 20px
+}
+
+.torzo{
+height: 20px;
+width: 55px;
+background-color: rgb(151, 126, 126);
+margin: 0px auto;
+margin-top: 10px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px; 
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px; 
+border-radius: 15
+}
+
+.email {
+width: 450px;
+height: 100px;
+border: 2px solid white;
+background-color: white;
+border-radius: 100px;
+font-size: 40px;
+transform: translate(16%, 55%);
+opacity: 0.4
+}
+
+.password{
+width: 450px;
+height: 100px;
+border: 2px solid white;
+margin: 0px auto;
+border-radius: 100px;
+font-size: 40px;
+transform: translate(16%, 65%);
+opacity: 0.4
+}
+
+.login{
+width: 450px;
+height: 100px;
+border: 2px solid white;
+margin: 0px auto;
+border-radius: 100px;
+color: black;
+font-size: 40px;
+text-align: center;
+background-color: white;
+transform: translate(16%, 115%)
+}
+
+.legalsoresz{
+transform: translate(-0%, 695%);
+text-align: center;
+text-decoration: underline;
+color: white
+}
+
+.legalsoresz :hover{
+color: black
+}
+
+a{
+color: white;
+}
+
+.orange{
+height: 100px;
+width: 100px;
+background-color: white;
+border-radius: 100px;
+border: 2px solid grey;
+box-shadow: 1px 1px 11px grey;
+transform: translate(950%, 55%)
+}
+
+.blue{
+height: 100px;
+width: 100px;
+background-color: black;
+border-radius: 100px;
+border: 2px solid grey;
+box-shadow: 1px 1px 11px grey;
+transform: translate(350%, 550%)
+}
+
+
+/* barmilyen eszrevetelt a kodolas 
+jobb/praktikusabb kivitelezesevel 
+kapcsolatban, nagyon szivesen veszek. */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
