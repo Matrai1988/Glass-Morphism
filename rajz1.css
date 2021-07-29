@@ -122,7 +122,7 @@ a{
 color: white;
 }
 
-.orange{
+.white{
 height: 100px;
 width: 100px;
 background-color: white;
@@ -132,7 +132,7 @@ box-shadow: 1px 1px 11px grey;
 transform: translate(950%, 55%)
 }
 
-.blue{
+.black{
 height: 100px;
 width: 100px;
 background-color: black;
